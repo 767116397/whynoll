@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>767116397 的个人博客</title>
+    <title>whynoll 的个人博客</title>
     <link>https://whynoll.vercel.app</link>
     <atom:link href="https://whynoll.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
     <description>记录精彩的程序人生</description>
     <generator>Solo, v4.3.1, https://b3log.org/solo</generator>
-    <lastBuildDate>Wed, 08 Sep 2021 12:45:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 03:06:37 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
       <title>test</title>
-      <link>https://whynoll.vercel.app/articles/2021/09/08/1631076332971.html</link>
+      <link>https://whynoll.vercel.app/articles/2021/12/09/1638988895596.html</link>
       <description/>
       <author>767116397</author>
-      <guid>https://whynoll.vercel.app/articles/2021/09/08/1631076332971.html</guid>
+      <guid>https://whynoll.vercel.app/articles/2021/12/09/1638988895596.html</guid>
       <category>待分类</category>
-      <pubDate>Wed, 08 Sep 2021 12:45:33 +0800</pubDate>
+      <pubDate>Thu, 09 Dec 2021 02:41:45 +0800</pubDate>
     </item>
     <item>
       <title>世界，你好！</title>
@@ -32,7 +32,16 @@
       <author>767116397</author>
       <guid>https://whynoll.vercel.app/hello-solo</guid>
       <category>Solo</category>
-      <pubDate>Wed, 08 Sep 2021 11:06:16 +0800</pubDate>
+      <pubDate>Thu, 09 Dec 2021 02:40:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://whynoll.vercel.app/articles/2021/09/08/1631076332971.html</link>
+      <description/>
+      <author>767116397</author>
+      <guid>https://whynoll.vercel.app/articles/2021/09/08/1631076332971.html</guid>
+      <category>待分类</category>
+      <pubDate>Wed, 08 Sep 2021 12:45:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
